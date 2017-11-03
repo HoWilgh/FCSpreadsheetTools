@@ -1,7 +1,7 @@
 # FCSpreadsheetTools
 This macro helps managing cells inside FreeCAD Spreadsheet workbench.
 
-Macro developed for FreeCAD (http://www.freecadweb.org/).
+The Macro was developed for FreeCAD (http://www.freecadweb.org/).
 
 This macro helps managing cells inside FreeCAD Spreadsheet workbench. It is able to:
        - Cut/delete data and/or alias fields in a selected area of cells
