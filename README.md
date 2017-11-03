@@ -1,6 +1,4 @@
 # FCSpreadsheetTools
-This macro helps managing cells inside FreeCAD Spreadsheet workbench.
-
 The macro was developed for the use in FreeCAD (http://www.freecadweb.org/).
 
 It helps managing cells inside FreeCAD's Spreadsheet-workbench. With its help one is able to:
